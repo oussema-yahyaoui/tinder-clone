@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "install": "^0.13.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.9.0",
+    "tailwind-rn": "^3.0.1"
+  }
+}
